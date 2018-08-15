@@ -7,9 +7,9 @@ This is the result of the work done by
 ## Justification
 
 ## Objectives
-
-
-Seminars
+### General
+### Specific
+## Seminars
 
 
  - Programming Seminar - 2018 First semester [link](https://github.com/jmsevillam/Seminar-2018-I)
