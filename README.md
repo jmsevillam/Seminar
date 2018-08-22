@@ -1,5 +1,7 @@
 # Seminar
 
+
+
 This seminar is the product of a initiative that started with a group of friends on a bar thinking what could we do to make a difference. 
 
 This work has been done by a group of physicists which believed that community and friendship are two of the most important things on science and life.
@@ -12,11 +14,14 @@ Personally, I feel that programming is one of those skills which is transversal 
 ### General  
  - To develop tools and methods that are helpful in a multidisciplinary science context using the programming language that fits the problem.
 ### Specific
- - To 
- - 
+ - To promove the work in groups on science.
+ - To solve problems on different disciplines using a computer.
+ - To learn new alternatives to solve problems.
+ - To share ideas and knowledge among colleagues.
+ 
 ## Seminars
 
-
+The links to the Seminars are,
 
  - Programming Seminar - 2018 First semester [link](https://github.com/jmsevillam/Seminar-2018-I)
  - Programming Seminar - 2018 Second semester [link](https://github.com/jmsevillam/Seminar-2018-II)
